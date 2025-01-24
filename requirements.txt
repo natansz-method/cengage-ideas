@@ -12,4 +12,4 @@ nltk
 scikit-learn
 plotly
 ipywidgets
-scipyq
+scipy
