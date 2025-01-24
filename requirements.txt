@@ -6,3 +6,10 @@ pandas
 numpy
 sentence-transformers
 wordcloud
+matplotlib
+seaborn
+nltk
+scikit-learn
+plotly
+ipywidgets
+scipyq
